@@ -57,10 +57,12 @@ async function doWork() {
 
 /* Comment this section out if you want all the badges, as opposed
    to just most recently registered ones. */
+
+/*
 if (daysSinceLastChange>1) {
     printBadge=false;
 }
-
+*/
 
 
 
