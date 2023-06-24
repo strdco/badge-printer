@@ -1,0 +1,17 @@
+{
+  "name": "badge.datasatsto.se",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "cookie-session": "*",
+    "express": "*",
+    "fs": "*",
+    "path": "*",
+    "qrcode": "*",
+    "pdfkit": "*",
+    "@mailchimp/mailchimp_marketing": "*"
+  }
+}

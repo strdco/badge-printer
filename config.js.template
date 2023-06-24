@@ -1,0 +1,28 @@
+module.exports = {
+
+    "documentInfo": {
+        Title: 'Attendee badges',
+        Author: 'badge.datasatsto.se',
+        Subject: 'Data Saturday Stockholm 2023'
+    },
+
+    // https://pdfkit.org/docs/paper_sizes.html
+    "pageSettings": {
+        "font": './Montserrat-SemiBold.ttf',
+        "size": 'A4'
+    },
+    "pageWidth": 595.28,
+    "pageHeight": 881.89,
+    "pageTopMargin": 40,
+    "topPercent": 0.5,
+    
+    "qrSizePercent": 0.15,
+    "badgeHorizontalCount": 2,
+    "badgeVerticalCount": 2,
+
+    "siteName": 'scan.datasatsto.se',
+
+    "mailchimpAudienceId": '0000000000',
+    "mailchimpApiKey": '00000000000000000000000000000000-us5'
+
+}
